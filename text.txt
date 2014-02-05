@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-it's master branch	some text to master branch
-=======
-it's master branch
-
-it's first branch text
->>>>>>> origin/branch1
+text br1
